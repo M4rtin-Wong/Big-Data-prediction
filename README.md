@@ -1,3 +1,4 @@
+read the COMP4434Final-Report.pdf to know the details.
 there are several files in this project, list at below:
 - three source data files: New_Teleplay.csv, Rating.csv, Teleplay.csv
 - 18063466D_task1.csv: store the predicted rating of recently published teleplays.
